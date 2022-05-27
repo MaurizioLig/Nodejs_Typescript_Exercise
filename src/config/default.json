@@ -1,0 +1,5 @@
+{
+  "DB_CONNECTION_URI": "mongodb://localhost:27017/exercise",
+  "PORT": 4000,
+  "USER": "https://dds-test-mock-data.s3-eu-west-1.amazonaws.com/users/list.json"
+}
